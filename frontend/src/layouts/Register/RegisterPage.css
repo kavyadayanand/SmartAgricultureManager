@@ -1,0 +1,11 @@
+.RegisterPage {
+    background-color: rgb(0, 0, 255);
+    background-image: url('/background1.jpg');
+    opacity:0.8;
+    min-height: 100%;
+    min-height: 100vh;
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}

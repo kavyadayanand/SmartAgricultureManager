@@ -1,0 +1,71 @@
+
+.dashboard_tab_wrapper {
+    width: 100%;
+    margin-bottom: 24px;
+    font-size: 0;
+    border-bottom: 1px solid #DEDEDE;
+}
+
+.dashboard_tab {
+    display: inline-block;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 14px;
+    line-height: 1.43;
+    cursor: pointer;
+    color: #1f2836;
+    border-left-width: 0;
+}
+
+
+.ProjectTable {
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.08), 0 2px 4px 0 rgba(0,0,0,.12);
+    background: #fff;
+    border-radius: 3px 3px 0 0;
+    margin-bottom: 18px;
+    min-width: 960px;
+    overflow: hidden;
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.43;
+    box-sizing: border-box;
+    border: #919292;
+}
+
+.ProjectTable-head {
+    color: #0087e0;
+    padding: 10px 20px;
+    margin-bottom: 18px;
+}
+
+.ProjectTable-summaryColumn {
+    padding-left: 24px;
+    position: relative;
+    width: 850px;
+    font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.ProjectTable-cell {
+    border-top: 1px solid #eee;
+    padding: 20px 10px;
+    font-size: 15px;
+    text-align: left;
+    vertical-align: top;
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    font-family: Roboto,sans-serif;
+    background: #fff;
+}
+
+.ProjectTable-title {
+    font-weight: 700;
+    margin-bottom: 6px;
+    overflow: hidden;
+    padding-left: 10px;
+    font-size: 19px;
+    line-height: 1.4;
+    color: #0087e0;
+    font-family: Roboto,sans-serif;
+}
